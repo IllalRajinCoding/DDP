@@ -1,0 +1,84 @@
+{
+  "sembako": [
+    {
+      "id": 1,
+      "nama": "Beras",
+      "jenis": "Pangan",
+      "harga_per_kg": 12000,
+      "stok": 1000,
+      "satuan": "kg"
+    },
+    {
+      "id": 2,
+      "nama": "Minyak Goreng",
+      "jenis": "Minyak",
+      "harga_per_liter": 14500,
+      "stok": 500,
+      "satuan": "liter"
+    },
+    {
+      "id": 3,
+      "nama": "Gula Pasir",
+      "jenis": "Pangan",
+      "harga_per_kg": 13000,
+      "stok": 800,
+      "satuan": "kg"
+    },
+    {
+      "id": 4,
+      "nama": "Telur Ayam",
+      "jenis": "Protein",
+      "harga_per_butir": 2500,
+      "stok": 1500,
+      "satuan": "butir"
+    },
+    {
+      "id": 5,
+      "nama": "Terasi",
+      "jenis": "Bumbu",
+      "harga_per_100g": 4000,
+      "stok": 300,
+      "satuan": "100g"
+    },
+    {
+      "id": 6,
+      "nama": "Susu UHT",
+      "jenis": "Minuman",
+      "harga_per_karton": 55000,
+      "stok": 200,
+      "satuan": "karton"
+    },
+    {
+      "id": 7,
+      "nama": "Indomie",
+      "jenis": "Makanan",
+      "harga_per_paket": 3000,
+      "stok": 1200,
+      "satuan": "paket"
+    },
+    {
+      "id": 8,
+      "nama": "Kopi Bubuk",
+      "jenis": "Minuman",
+      "harga_per_100g": 8000,
+      "stok": 500,
+      "satuan": "100g"
+    },
+    {
+      "id": 9,
+      "nama": "Sayur Mayur (Kangkung)",
+      "jenis": "Sayuran",
+      "harga_per_kg": 7000,
+      "stok": 300,
+      "satuan": "kg"
+    },
+    {
+      "id": 10,
+      "nama": "Daging Sapi",
+      "jenis": "Protein",
+      "harga_per_kg": 120000,
+      "stok": 100,
+      "satuan": "kg"
+    }
+  ]
+}
